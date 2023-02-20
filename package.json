@@ -1,0 +1,23 @@
+{
+  "name": "occasional-messages",
+  "version": "1.0.0",
+  "description": "Ocassional Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tavodlhoz/occasional-messages.git"
+  },
+  "author": "Gustavo De La Hoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tavodlhoz/occasional-messages/issues"
+  },
+  "homepage": "https://github.com/Tavodlhoz/occasional-messages#readme",
+  "bin": {
+    "occasional-messages": "./bin/gobal.js"
+  },
+  "preferGlobal": true
+}
